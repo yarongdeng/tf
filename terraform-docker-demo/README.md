@@ -1,3 +1,8 @@
+# 前提条件
+**预先安装docker terraform环境**
+
+
+# demo步骤
 **terraform 初始化**
 ```
 terraform init
@@ -23,6 +28,7 @@ terraform apply
 terraform destory
 ```
 
+# 有关说明
 **有关tf docker provider 配置，可以参考[官方链接](https://www.terraform.io/docs/providers/docker/index.html)**
 
 
