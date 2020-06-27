@@ -20,3 +20,8 @@ terraform apply
 ```
 terraform destory
 ```
+
+**有关tf docker provider 配置，可以参考[官方链接](https://www.terraform.io/docs/providers/docker/index.html)**
+
+
+**本Demo引用自[官方](https://learn.hashicorp.com/terraform/getting-started/install)**
